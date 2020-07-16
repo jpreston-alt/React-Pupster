@@ -1,0 +1,26 @@
+.heading {
+    margin: 50px;
+}
+
+.pic-card {
+    width: 20rem;
+    margin: 30px auto 30px auto;
+}
+
+.card-img {
+    width: 20rem;
+    height: 20rem;
+}
+
+.thumb-btn {
+    font-size: 20px;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 15px 10px 15px;
+    color: white;
+    outline: 0 !important;
+}
+
+.thumb-btn:hover {
+    font-size: 24px;
+}
