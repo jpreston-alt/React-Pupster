@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Pupster/static/css/main.9b6f1185.chunk.css",
-    "main.js": "/React-Pupster/static/js/main.2a437ec8.chunk.js",
-    "main.js.map": "/React-Pupster/static/js/main.2a437ec8.chunk.js.map",
+    "main.js": "/React-Pupster/static/js/main.fd7c5dd3.chunk.js",
+    "main.js.map": "/React-Pupster/static/js/main.fd7c5dd3.chunk.js.map",
     "runtime-main.js": "/React-Pupster/static/js/runtime-main.0e222567.js",
     "runtime-main.js.map": "/React-Pupster/static/js/runtime-main.0e222567.js.map",
     "static/js/2.005058fb.chunk.js": "/React-Pupster/static/js/2.005058fb.chunk.js",
     "static/js/2.005058fb.chunk.js.map": "/React-Pupster/static/js/2.005058fb.chunk.js.map",
     "index.html": "/React-Pupster/index.html",
-    "precache-manifest.21f048e25dff04681e4a0d4c09aae453.js": "/React-Pupster/precache-manifest.21f048e25dff04681e4a0d4c09aae453.js",
+    "precache-manifest.38bbd561bb3d4d6c2ff61e85cee1a261.js": "/React-Pupster/precache-manifest.38bbd561bb3d4d6c2ff61e85cee1a261.js",
     "service-worker.js": "/React-Pupster/service-worker.js",
     "static/css/main.9b6f1185.chunk.css.map": "/React-Pupster/static/css/main.9b6f1185.chunk.css.map",
     "static/js/2.005058fb.chunk.js.LICENSE.txt": "/React-Pupster/static/js/2.005058fb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0e222567.js",
     "static/js/2.005058fb.chunk.js",
     "static/css/main.9b6f1185.chunk.css",
-    "static/js/main.2a437ec8.chunk.js"
+    "static/js/main.fd7c5dd3.chunk.js"
   ]
 }
