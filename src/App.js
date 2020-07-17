@@ -11,6 +11,7 @@ function App() {
   return (
     <Router>
       <NavTabs />
+      <Route exact path="/React-Pupster" component={About} />
       <Route exact path="/" component={About} />
       <Route exact path="/discover" component={Discover} />
       <Route exact path="/search" component={Search} />
